@@ -1,0 +1,11 @@
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.exe
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.deps.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.runtimeconfig.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.runtimeconfig.dev.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.dll
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\bin\Debug\netcoreapp3.0\inheritances.pdb
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\obj\Debug\netcoreapp3.0\inheritances.csprojAssemblyReference.cache
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\obj\Debug\netcoreapp3.0\inheritances.AssemblyInfoInputs.cache
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\obj\Debug\netcoreapp3.0\inheritances.AssemblyInfo.cs
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\obj\Debug\netcoreapp3.0\inheritances.dll
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\inheritances\obj\Debug\netcoreapp3.0\inheritances.pdb
